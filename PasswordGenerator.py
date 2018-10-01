@@ -1,3 +1,8 @@
+"""
+PRAGATI KUMAR
+2/10/2018
+"""
+
 # Python program to generate random 
 # password using Tkinter module 
 import random 
